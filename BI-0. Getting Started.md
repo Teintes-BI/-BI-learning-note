@@ -17,4 +17,13 @@
 - Recommended Videos
   - [15分钟教你完全掌握markdown](https://www.bilibili.com/video/BV1sz411z7qd?from=search&seid=11483264095765612977)
   - [GitHub小白入门教程](https://www.bilibili.com/video/BV1i5411471j?from=search&seid=10142522956759937528)
-  - [使用GitHub Desktop][https://www.bilibili.com/video/BV13W411U7HY?from=search&seid=16141839489106957877]
+  - [使用GitHub Desktop](https://www.bilibili.com/video/BV13W411U7HY?from=search&seid=16141839489106957877)
+
+### GitHub Desktop
+
+1. clone,把repo复制到本地
+2. 在本地文件夹做操作，会实时监测到文件是否被修改
+3. 上传到main,再上传到github 
+4. 分支，上方第二个按钮创建新分支，按第三个上传（同步）
+5. 将本地的repo放到网上，file-addnew/local ，第三个按钮上传，即可看见。
+
