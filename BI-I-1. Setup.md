@@ -25,7 +25,7 @@ it's an OS like Terminal
 
 但是docker被设定为不手动终止就不会退出，手动终止的代码为：
 
-	docker container stop 232e1bdfe7ee
+	docker container stop d2f4913e079e
 
 改变docker的参数
 
